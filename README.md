@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🤝 I’m looking for help with: Enhancing the security of AI models, particularly in the areas of model obfuscation and cryptography for web deployment.<br>
 🌱 I’m currently learning: Advanced techniques in model optimization, AI security, and the latest trends in machine learning, deep learning frameworks, and natural language processing.<br>
 💬 Ask me about: Python, AI/ML frameworks (like PyTorch, TensorFlow), NLP, web development (MERN stack, Django, Flask), and cloud deployment (AWS, Azure).<br>
-⚡ Fun fact: I love exploring the intersection of technology and science fiction, particularly in areas like terraforming technologies and futuristic AI systems!
+⚡ Fun fact: I love exploring the intersection of technology and science fiction, particularly in areas like futuristic AI systems!
 
 
 ## 🌐 Socials:
